@@ -1,0 +1,6 @@
+C:\11E\Komlósi Balázs\prog\(komp.prog)Labirintus\Labirintus\obj\Debug\Labirintus.csprojAssemblyReference.cache
+C:\11E\Komlósi Balázs\prog\(komp.prog)Labirintus\Labirintus\obj\Debug\Labirintus.csproj.CoreCompileInputs.cache
+C:\11E\Komlósi Balázs\prog\(komp.prog)Labirintus\Labirintus\bin\Debug\Labirintus.exe
+C:\11E\Komlósi Balázs\prog\(komp.prog)Labirintus\Labirintus\bin\Debug\Labirintus.pdb
+C:\11E\Komlósi Balázs\prog\(komp.prog)Labirintus\Labirintus\obj\Debug\Labirintus.exe
+C:\11E\Komlósi Balázs\prog\(komp.prog)Labirintus\Labirintus\obj\Debug\Labirintus.pdb
